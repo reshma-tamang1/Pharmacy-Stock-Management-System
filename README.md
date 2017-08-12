@@ -1,2 +1,2 @@
 # Pharmacy-Stock-Management-System
-A wordpress based electronic online store for college project
+A Simple stock management system for Pharmacy with admin. Here admin can update, create and manage products, company as well as orders.
